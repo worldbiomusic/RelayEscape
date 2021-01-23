@@ -12,7 +12,6 @@ TOKEN `amount`
 - [MAKING_BLOCK](MAKING_BLOCK.md): block that can placed in MakingTime
 - [TOOL](TOOL.md): tool that can be useful in MakingTime
 - [EVENT_BLOCK](EVENT_BLOCK.md): block that can be placed and executed in MakingTime
-- [CASH_TOOL](CASH_TOOL.md): goods that can derestrict some server rules
 
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
@@ -31,5 +30,4 @@ TOKEN `amount`
 - [MAKING_BLOCK](MAKING_BLOCK.md): MakingTime때 사용가능한 블럭
 - [TOOL](TOOL.md): MakingTime때 유용하게 사용가능한 도구
 - [EVENT_BLOCK](EVENT_BLOCK.md): MakingTime에 설치할 수 있는 이벤트 블럭
-- [CASH_TOOL](CASH_TOOL.md): 서버 룰 제한을 해제할 수 있는 것
 
