@@ -1,8 +1,8 @@
 # `English`
 # Description
 - Challenger players have to escape the room made by Maker player
-- version: 1.12.2
-- address: in discord channel
+- version: 1.12.2 - newest version
+- address: RelayEscape.fxh.kr
 - discord: [link](https://discord.gg/EwXk9Cd2Ya)
 - 24h
 ---------------------------------------------------------------------------------------------------------------------
@@ -11,7 +11,7 @@
 # `Korean`
 # 설명
 - 메이커가 만든 방을 챌린저가 도전하는 릴레이 게임입니다
-- 버전: 1.12.2
-- 주소: 디스코드에 게시
+- 버전: 1.12.2 - 최신버전
+- 주소: RelayEscape.fxh.kr
 - 디스코드: [link](https://discord.gg/EwXk9Cd2Ya)
 - 24시간
