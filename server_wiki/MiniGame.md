@@ -34,7 +34,7 @@ Rewards are paid based on the rank score quartile(ascending order)
 > [MINI_GAME]  
 > `game title`  
 > TOKEN `amount`  
-> `game type`  
+> Max: `max player count`
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
@@ -73,4 +73,4 @@ Rewards are paid based on the rank score quartile(ascending order)
 > [MINI_GAME]  
 > `game title`  
 > TOKEN `amount`  
-> `game type`  
+> Max: `max player count`
