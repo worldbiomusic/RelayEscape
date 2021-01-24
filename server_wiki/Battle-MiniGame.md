@@ -16,6 +16,7 @@
 > - 2nd place: 20% of SUM
 > - 3rd place: 10% of SUM
 > - Participation Reward: (total players in minigame)% of REMAIN
+* Info: You can earn token with at least 3 or 4 players
 
 # Game Kinds
 - [BATTLE_TOWN](BATTLE_TOWN.md)
@@ -46,7 +47,7 @@
 > - 2등: SUM의 20%
 > - 3등: SUM의 10%
 > - 참가보상: REMAIN의 (전체인원)%
- 
+* 주의: 배틀미니게임은 최소 3~4명 이상이서 참여해야 토큰 이득을 볼 수 있습니다 (보상 퍼센트 확률 때문)
 
 # 게임 종류
 - [BATTLE_TOWN](BATTLE_TOWN.md)
