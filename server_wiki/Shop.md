@@ -10,7 +10,7 @@ TOKEN `amount`
 
 # type of goods sold
 - [MAKING_BLOCK](MAKING_BLOCK.md): block that can placed in MakingTime
-- [TOOL](TOOL.md): tool that can be useful in MakingTime
+- [TOOL](TOOL.md): tool that can be useful
 - [EVENT_BLOCK](EVENT_BLOCK.md): block that can be placed and executed in MakingTime
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -28,6 +28,6 @@ TOKEN `amount`
 
 # 판매되는 굿즈 종류
 - [MAKING_BLOCK](MAKING_BLOCK.md): MakingTime때 사용가능한 블럭
-- [TOOL](TOOL.md): MakingTime때 유용하게 사용가능한 도구
+- [TOOL](TOOL.md): 유용하게 사용가능한 도구
 - [EVENT_BLOCK](EVENT_BLOCK.md): MakingTime에 설치할 수 있는 이벤트 블럭
 
