@@ -14,8 +14,7 @@
 - Token
 - Shop
 - Simple Map, System
-- Chat disabled
-- Wiki
+- [Wiki](https://github.com/worldbiomusic/RelayEscape/blob/main/server_wiki/Home.md)
 
 # Rules
 - Challenger can become a Maker if RIGHT-CLICK the core(GlowStone) in the room
@@ -65,8 +64,7 @@
 - 토큰(가상 돈)
 - 상점
 - 심플한 맵
-- 채팅 불가능
-- 위키
+- [위키](https://github.com/worldbiomusic/RelayEscape/blob/main/server_wiki/Home.md)
 
 # 규칙
 - 룸의 코어 (발광석)를 우클릭하면 도전자가 메이커가 될 수 있습니다
