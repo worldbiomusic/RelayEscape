@@ -7,10 +7,19 @@
 - UNDER_BLOCK: Create a block at your foot position (useful in the air)
 - SPAWN: Move to the spawn location of the room
 - CHEST: Items that can take out MAKING_BLOCKs
-- HIGH_5~50: The height limit of the room can be lifted step by step
-- MakingTime_5~15: Room MakingTime limit time can be lifted step by step
+- HIGH_##: The height limit of the room can be lifted step by step
+- MakingTime_##: Room MakingTime limit time can be lifted step by step
 - REDUCE_TIME: Reduces the remaining time of ChallengingTime by `Remaining time / (Current number of player + 1)`
 - GHOST: Allows viewers to spectator game mode
+- FINISH: next to the TestingTIme
+- BLOCK_CHANGER: mode를 on으로 설정하면 손에 블럭을 들고 다른 블럭을 우클릭시 들고있는 블럭으로 변경됩니다
+- HIDE: 자신의 모습을 다른 모든 플레이어로 부터 숨깁니다
+- SUPER_STAR: 자신에게 발광 효과를 부여합니다
+- GOODS_LIST: 자신이 가지고 있는 굿즈리스트를 보여줍니다
+- CHATT: 소유하고 있을시 채팅이 가능해집니다
+- TOKEN_500: 사용시 토큰 500개를 얻습니다
+- COLOR_CHAT: 사용시 채팅에 출력되는 플레이어 이름색을 변경할 
+- GM_CHANGER: 메이킹 타임 때 크리에이티브 <-> 서바이벌 모드를 변경할 수 있습니다
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
@@ -35,7 +44,7 @@
 - CHATT: 소유하고 있을시 채팅이 가능해집니다
 - TOKEN_500: 사용시 토큰 500개를 얻습니다
 - COLOR_CHAT: 사용시 채팅에 출력되는 플레이어 이름색을 변경할 
-
+- GM_CHANGER: 메이킹 타임 때 크리에이티브 <-> 서바이벌 모드를 변경할 수 있습니다
 
 
 
