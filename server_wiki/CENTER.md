@@ -1,6 +1,18 @@
 - # `English`
 # Description
-- 
+- Minigame to push other players and try to not fall off on a narrow block
+
+# Type
+- Battle
+
+# Rules
+- Game Start: +(player count)
+- Fall: -(player count who fell)
+- Can't hit player
+- Fall when use Sneaking (must push other player on standing state)
+
+# Item
+- None
 ---
 ---
 ---
@@ -16,7 +28,6 @@
 - 떨어짐: -(떨어졌던 사람 수+1) (빨리 떨어지면 점수를 조금 잃습니다)
 - 플레이어를 때릴 수 없습니다
 - 웅크리기를 사용하면 떨어집니다 (플레이어 몸으로만 밀쳐서 떨어뜨려야 합니다)
-- 밑의 호박에 떨어지면 떨어진 판정입니다 
 
 
 # 지급 아이템
