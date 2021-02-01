@@ -1,12 +1,26 @@
 # `English`
 # Description
-- 
+- Timing Minigame
+
+# Type
+- Battle
+
+# Rules
+- Kill player: +1
+- After game starts, all players will teleport to a small place
+- After random seconds, center block will be removed
+- After removed center block, sword item will be given to all player inventory in random slot 
+- Must hit with the sword
+- All players die with 1 hit
+
+# Item
+- sword
 ---
 ---
 ---
 # `Korean`
 # 설명
-- 다른 플레이어들과 긴장감 속에서 한방 싸움을 하는 미니게임입니다
+- 다른 플레이어들과 긴장감 속에서 타이밍 싸움을 하는 미니게임입니다
 
 # 미니게임 타입
 - 배틀
