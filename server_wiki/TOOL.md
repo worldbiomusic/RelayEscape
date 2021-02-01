@@ -10,7 +10,7 @@
 - HIGH_##: The height limit of the room can be lifted step by step
 - MakingTime_##: Room MakingTime limit time can be lifted step by step
 - REDUCE_TIME: Reduces the remaining time of ChallengingTime by `Remaining time / (Current number of player + 1)`
-- GHOST: Allows viewers to spectator game mode
+- GHOST: Allow player to change gamemode to ADVENTURE OR SPECTATOR
 - FINISH: next to the TestingTIme (Core must be placed)
 - BLOCK_CHANGER: can change into block player is holding without breaking 
 - HIDE: hide player from everyone
@@ -35,7 +35,7 @@
 - HIGH_##: 룸 제작의 높이제한을 단계별로 해제할 수 있음
 - MakingTime_##: 룸 제작시간의 제한을 단계별로 해제할 수 있음
 - REDUCE_TIME: ChallengingTime의 남은 시간을 `남은시간 / (현재 인원수 + 1)` 만큼 줄여줍니다
-- GHOST: Viewer일때 관전자모드로 관람할 수 있게 합니다
+- GHOST: Viewer일때 /re ghost 명령어로 관전자모드 <-> 모험가모드 모드변경이 가능합니다
 - FINISH: Testing시간일때 Making시간으로 넘어갑니다 (코어 설치 필요)
 - BLOCK_CHANGER: mode를 on으로 설정하면 손에 블럭을 들고 다른 블럭을 우클릭시 들고있는 블럭으로 변경됩니다
 - HIDE: 자신의 모습을 다른 모든 플레이어로 부터 숨깁니다
