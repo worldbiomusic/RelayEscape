@@ -22,6 +22,7 @@
 - All rooms(4) saved in server data file
 - Main, Practice rooms process with room that made by MAKER in MakingTime, and MiniGame, Fun rooms fix with a room that have 
 a special purposes
+- Except for rooms with special purposes(MiniGame Room, Fun Room, empty), all rooms are guaranteed to have a existence of a Core(rule of MakingTime) and room clear certainty(rule of TestingTime)
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
@@ -48,8 +49,7 @@ a special purposes
 # 특징
 - 모든 룸은(4개) 서버의 룸 데이터로 저장됩니다 
 - Main, Practice룸은 메이커가 만든룸이 진행되고, MiniGame, Fun룸은 각자의 역할에 맞는 룸이 고정되어 있습니다
-
-
+- MiniGame룸과 Fun룸의 룸 데이터, empty 룸 데이터를 제외한 모든 룸은 코어가 존재와, 아무 능력없이 플레이어가 클리어가 보장되어 있습니다
 
 
 
