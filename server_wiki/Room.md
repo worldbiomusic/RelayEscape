@@ -17,6 +17,11 @@
 
 ## [Fun Room](Fun-Room.md)
 > - can experience some funny things
+
+# Features
+- All rooms(4) saved in server data file
+- Main, Practice rooms process with room that made by MAKER in MakingTime, and MiniGame, Fun rooms fix with a room that have 
+a special purposes
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
@@ -39,6 +44,15 @@
 
 ## [Fun Room](Fun-Room.md)
 > - 몇가지 재밌는것들
+
+# 특징
+- 모든 룸은(4개) 서버의 룸 데이터로 저장됩니다 
+- Main, Practice룸은 메이커가 만든룸이 진행되고, MiniGame, Fun룸은 각자의 역할에 맞는 룸이 고정되어 있습니다
+
+
+
+
+
 
 
 
