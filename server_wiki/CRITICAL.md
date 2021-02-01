@@ -7,6 +7,8 @@
 
 # Rules
 - kill player: +1
+- every player(=damager) have a alternatley change to hit otehr player 
+- damager have to hit ohter player while certain seconds, otherwise change passed to the next player
 
 # Item
 - sword
@@ -22,8 +24,8 @@
 
 # 룰
 - 다른 플레이어 킬: +1
-- 모든 플레이어가 한번씩 때릴 기회를 갖습니다
-- 때릴 기회를 얻은 사람은 일정 시간내에 때리지 못하면 기회가 다음사람에게 
+- 모든 플레이어(=damager)가 한번씩 때릴 기회를 갖습니다 
+- 때릴 기회를 얻은 사람은 일정 시간내에 때리지 못하면 기회가 다음사람에게 넘어갑니다
 
 # 지급 아이템
 - 칼
