@@ -3,7 +3,7 @@
 - MiniGame to make all blocks the same
 
 # Type
-- Soloe
+- Solo
 
 # Rules
 - Make all blocks the same: +1
