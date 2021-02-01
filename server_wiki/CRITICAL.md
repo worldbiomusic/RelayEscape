@@ -1,6 +1,15 @@
 # `English`
 # Description
-- 
+- Minigame to alternatley hit the other players once
+
+# Type
+- Battle
+
+# Rules
+- kill player: +1
+
+# Item
+- sword
 ---
 ---
 ---
