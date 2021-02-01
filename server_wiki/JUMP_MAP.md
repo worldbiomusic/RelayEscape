@@ -6,8 +6,8 @@
 - Solo
 
 # Rules
-- At first, you get score(timeLimit time amount)
-- And minus score every certain delay
+- At first: +(timeLimit amount)
+- every certain time: -1
 
 # Item
 - None
@@ -22,8 +22,8 @@
 - 솔로
 
 # 룰
-- 처음에 timeLimit시간만큼 스코어를 얻습니다
-- 게임 시작후 일정시간마다 일정스코어를 잃습니다
+- 게임시작: +(제한시간 양)
+- 일정시간: -1
 
 # 지급 아이템
 - 없음
