@@ -14,6 +14,8 @@
 # RelayTime Cycle Flow
 ![RelayTimeCycleFlow](https://github.com/worldbiomusic/RelayEscape/blob/main/imgs/RelayTimeCycleFlow.png)
 
+# Exception
+- When Maker quit the server: start ChallengingTime
 -----
 # RelayTime List
 ## [WaitingTime](WaitingTime.md)
@@ -54,6 +56,8 @@
 # 릴레이타임 사이클 흐름
 ![RelayTimeCycleFlow](https://github.com/worldbiomusic/RelayEscape/blob/main/imgs/RelayTimeCycleFlow.png)
 
+# 예외상황
+- 메이커가 서버를 나갈때: ChallengingTime 
 -----
 # RelayTime List
 ## [WaitingTime](WaitingTime.md)
