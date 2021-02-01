@@ -51,7 +51,7 @@
 - 매 타임이 시작될 때마다 `해당 타임의 역할`에 맞는 굿즈가 자동으로 인벤토리에 지급됩니다
 - 모든 시간사이클은 각자의 수명시간을 가지고 있습니다. 수명시간이 다 한 후에는 사이클흐름에 맞게 다음 시간사이클로 자동으로 넘어갑니다
 - 룸은 MakingTime때 만들고, TestingTime때 만든 본인의 룸을 무조건 클리어해야 룸이 저장되고 ChallengingTime이 시작됩니다
-- 특별한 목적을 가진 룸(MiniGame Room, Fun Room, empty)을 제외한 모든 룸은 의`코어의 존재`(MakingTime의 규칙)와, `룸 클리어 확실성`(TestingTime의 규칙)이 보장되어 있습니다
+- 특별한 목적을 가진 룸(MiniGame Room, Fun Room, empty)을 제외한 모든 룸은 `코어의 존재`(MakingTime의 규칙)와, `룸 클리어 확실성`(TestingTime의 규칙)이 보장되어 있습니다
 
 # 릴레이타임 사이클 흐름
 ![RelayTimeCycleFlow](https://github.com/worldbiomusic/RelayEscape/blob/main/imgs/RelayTimeCycleFlow.png)
