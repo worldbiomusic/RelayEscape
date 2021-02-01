@@ -1,6 +1,16 @@
 # `English`
 # Description
-- 
+- MiniGame to jump 
+
+# Type
+- Solo
+
+# Rules
+- At first, you get score(timeLimit time amount)
+- And minus score every certain delay
+
+# Item
+- None
 ---
 ---
 ---
