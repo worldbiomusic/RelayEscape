@@ -1,6 +1,15 @@
 # `English`
 # Description
-- 
+- MiniGame to make all blocks the same
+
+# Type
+- Soloe
+
+# Rules
+- Make all blocks the same: +1
+
+# Item
+- pickaxe
 ---
 ---
 ---
