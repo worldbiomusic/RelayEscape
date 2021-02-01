@@ -21,9 +21,11 @@
 # Game Kinds
 - [BATTLE_TOWN](BATTLE_TOWN.md)
 - [FIND_THE_BLUE](FIND_THE_BLUE.md)
-- [CRITICAL](BANG.md)
+- [CRITICAL](CRITICAL.md)
 - [BANG](BANG.md)
-
+- [BRIDGE](BRIDGE.md)
+- [PUSH](PUSH.md)
+- [CENTER](CENTER.md)
 
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -52,7 +54,18 @@
 # 게임 종류
 - [BATTLE_TOWN](BATTLE_TOWN.md)
 - [FIND_THE_BLUE](FIND_THE_BLUE.md)
-- [CRITICAL](BANG.md)
+- [CRITICAL](CRITICAL.md)
 - [BANG](BANG.md)
+- [BRIDGE](BRIDGE.md)
+- [PUSH](PUSH.md)
+- [CENTER](CENTER.md)
+
+
+
+
+
+
+
+
 
 
