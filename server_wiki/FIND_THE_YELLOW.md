@@ -1,6 +1,15 @@
 # `English`
 # Description
-- 
+- Minigame to break the yellow flower
+
+# Type
+- Cooperative
+
+# Rules
+- Break the yellow flower: +1
+
+# Item
+- None
 ---
 ---
 ---
