@@ -2,8 +2,8 @@
 # Description
 - There are 4 rooms with different uses
 
-# Room Size
-15 x 30 x 15 blocks
+# Room Size(x, y, z)
+25 x 25 x 25 blocks
 
 # Room List
 ## [Main Room](Main-Room.md)
@@ -24,8 +24,8 @@
 # 설명
 - 목적이 각 다른 4개의 룸
 
-# 룸 사이즈
-15 x 30 x 15 블럭
+# 룸 사이즈(x, y, z)
+25 x 25 x 25 블럭
 
 # Room List
 ## [Main Room](Main-Room.md)
