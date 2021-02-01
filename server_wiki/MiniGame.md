@@ -74,3 +74,7 @@ Rewards are paid based on the rank score quartile(ascending order)
 > `game title`  
 > TOKEN `amount`  
 > Max: `max player count`
+
+
+# MiniGame-template
+- [MiniGame-telplate](MiniGame-telplate.md)
