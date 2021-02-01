@@ -3,7 +3,7 @@
 - MiniGame to break the red flower
 
 # Type
-- Battle
+- Solo
 
 # Rules
 - Break red flower: +1
