@@ -1,6 +1,15 @@
 # `English`
 # Description
-- 
+- Minigame to break the all blocks with fit tools
+
+# Type
+- Solo
+
+# Rules
+- Break the all blocks: +1
+
+# Item
+- pickaxe, shovel, sword, axe
 ---
 ---
 ---
