@@ -1,6 +1,15 @@
 # `English`
 # Description
-- 
+- Battle with others with some weapons
+
+# Type
+- Battle
+
+# Rules
+- kill player: +1
+
+# Item
+- sword, arrows, golden apple
 ---
 ---
 ---
