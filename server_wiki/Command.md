@@ -12,6 +12,7 @@
 > - `/re room finish`: end MakingTime and start TestingTime
 > - `/re minigame waitlist`: If you're master in Cooperative MiniGame, you can print wait players
 > - `/re minigame [ok|kick] <playerName>`: If you're master in Cooperative MiniGame, you can [ok|kick] players
+> - `/re ghost`: Allow player to change gamemode to ADVENTURE OR SPECTATOR (need GHOST goods)
 ---------
 ---------
 ---------
@@ -29,3 +30,4 @@
 > - `/re room finish`: MakingTime을 끝내고 TestingTime을 시작합니다
 > - `/re minigame waitlist`: Cooperative 미니게임에서 방장일때 기다리는 플레이어 목록을 출력합니다
 > - `/re minigame [ok|kick] <playerName>`: Cooperative 미니게임에서 방장일때 플레이어를 [허락/퇴장] 시킵니다
+> - `/re ghost`: Viewer일때 GHOST굿즈를 가지고 있으면 게임모드를 모험가모드 <-> 관전자모드 로 변경합니다
