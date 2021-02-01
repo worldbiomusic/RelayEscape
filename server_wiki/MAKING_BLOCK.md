@@ -1,6 +1,23 @@
 # `English`
 # Description
-- 
+- Blocks that can be used in MakingTime
+
+# Kinds
+- Core (glowstone)
+- Jack_O_Lantern
+- Glass
+- Ore related
+- Stone related
+- Sand related
+- Wool
+- Wood related
+- Dirt related
+- SlimeBlock
+- Barrier
+- Packed_Ice
+- Web
+- Cactus
+- Redstone related
 ---
 ---
 ---
