@@ -1,6 +1,17 @@
 # `English`
 # Description
-- 
+- Minigame to knock opponent off a signle bridge
+
+# Type
+- Battle
+
+# Rules
+- Game Start: +(player count)
+- Fall: -(player count who fell)
+- Not hurt when hit by player
+
+# Item
+- None
 ---
 ---
 ---
@@ -15,7 +26,6 @@
 - 게임 시작시: +(플레이어 수)
 - 떨어짐: -1
 - 맞아도 체력은 닳지 않습니다
-- 밑의 호박에 떨어지면 떨어진 판정입니다
 
 # 지급 아이템
 - 없음
