@@ -1,4 +1,4 @@
-- # `English`
+# `English`
 # Description
 - Minigame to push other players and try to not fall off on a narrow block
 
