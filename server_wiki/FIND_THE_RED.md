@@ -1,6 +1,16 @@
 # `English`
 # Description
-- 
+- MiniGame to break the red flower
+
+# Type
+- Battle
+
+# Rules
+- Break red flower: +1
+- Break other flower: -2
+
+# Item
+- None
 ---
 ---
 ---
