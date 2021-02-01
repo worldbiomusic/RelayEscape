@@ -1,6 +1,15 @@
 # `English`
 # Description
-- 
+- Minigame to break the blue flower
+
+# Type
+- Battle
+
+# Rules
+- Break the blue flower: +1
+
+# Item
+- None
 ---
 ---
 ---
