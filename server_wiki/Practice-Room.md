@@ -3,7 +3,7 @@
 - A room where you can practice random rooms
 
 # Features
-- If soneome clear the room, then random room will be loaded and 
+- If someone clear the room, then random room will be loaded and challengers teleport to lobby
 
 # Rules
 - If you clear the room, you get `Online Players / 2` token
