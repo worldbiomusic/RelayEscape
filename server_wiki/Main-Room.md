@@ -1,19 +1,21 @@
 # `English`
 # Description
-- 
+- Main room of the server which room creation and making are processing
 
 # Features
-- 
+- All room relay process in main room
+- Except for rooms with special purposes(MiniGame Room, Fun Room, empty), all rooms are guaranteed to have a existence of a Core(rule of MakingTime) and room clear certainty(rule of TestingTime)
 
 # Rules
-- 
+- Challenger can become a Maker with Right-Click the core
+- Details: [ChallengingTime](ChallengingTime.md)
 
 ---
 ---
 ---
 # `Korean`
 # 설명
-- 서버의 메인이 되는 룸입니다
+- 서버의 메인이 되는 룸으로 룸 제작과 도전이 이루어집니다
 
 # 특징
 - 모든 룸 릴레이는 메인룸에서 진행되고, 만들어집니다
