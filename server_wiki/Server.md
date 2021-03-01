@@ -6,6 +6,7 @@
 - [RelayTime](RelayTime.md)
 - [Role](Role.md)
 - [Room](Room.md)
+- [Room Download](Room-Download.md)
 - [Token](Token.md)
 - [Rank System](Rank-System.md)
 - [Command](Command.md)
